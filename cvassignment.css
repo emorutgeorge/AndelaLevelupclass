@@ -1,0 +1,49 @@
+body{
+    background-image: url("./images/background.jpg");
+}
+
+
+h1{
+	color: yellow;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 36px;
+}
+h2{
+	color: white;
+	background-color: orange;
+	text-align: center;
+	font-family: Brush Script Std;
+	padding: 5px;
+}
+h4{
+	color: orange;
+	text-align: center;
+	font-family: montserrat;
+}
+.profile{
+	text-align: center;
+	color: white;
+	font-family: montserrat;
+}
+		table,td,tr,th{
+			border: 2px solid orange;
+			border-collapse: collapse;
+			text-align: center;
+			padding: 10px;
+			font-family: montserrat;
+			color: white;
+		}
+		#custom-table thead{
+				background-color: orange;
+				color: white;
+		}
+		.career-background{
+			font-family: montserrat;
+			text-align: left;
+			color: white;
+		}
+		.contact-info{
+			font-family: montserrat;
+			color: white;
+		}
